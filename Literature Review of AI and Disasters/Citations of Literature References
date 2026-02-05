@@ -20,9 +20,23 @@ Anderson, B. (2015). *Governing Emergencies: The Politics of Delay and the Logic
 
 Andreadis, S., Bozas, A., Gialampoukidis, I., Moumtzidou, A., Fiorin, R., Lombardo, F., et al. (2022). *DisasterMM: Multimedia Analysis of Disaster-Related Social Media Data Task at MediaEval 2022.* CEUR Workshop Proceedings.
 
+Boros, E., Lejeune, G., Coustaty, M., & Doucet, A. (2022). *Adapting Transformers for Detecting Emergency Events on Social Media.* Proceedings of the International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management.
+
+Dar, S. S., Rehman, M. Z. U., Bais, K., Haseeb, M. A., & Kumar, N. (2024). *A Social Context-Aware Graph-Based Multimodal Attentive Learning Framework for Disaster Content Classification During Emergencies.* Expert Systems with Applications.
+
+Du, W., Ge, C., Yao, S., Chen, N., & Xu, L. (2023). *Applicability Analysis and Ensemble Application of BERT with TF-IDF, TextRank, MMR, and LDA for Topic Classification Based on Flood-Related VGI.* ISPRS International Journal of Geo-Information, 12(6), 240.
+
+Imran, M., Castillo, C., Lucas, J., Meier, P., & Vieweg, S. (2014). *AIDR: Artificial Intelligence for Disaster Response.* Proceedings of the International World Wide Web Conference Companion.
+
+Li, X., Jiang, Y., & Mostafavi, A. (2023). *AI-Assisted Protective Action: Study of ChatGPT as an Information Source for a Population Facing Climate Hazards.* Natural Hazards Review.
+
 Madichetty, S., & Sridevi, M. (2021). *A Neural-Based Approach for Detecting the Situational Information from Twitter During Disaster.* IEEE Transactions on Computational Social Systems, 8(4), 870–882.
 
 Mehmood, A., Zamir, M. T., Ayub, M. A., Ahmad, N., & Ahmad, K. (2024). *A Named Entity Recognition and Topic Modeling-Based Solution for Locating and Better Assessment of Natural Disasters in Social Media.* arXiv preprint arXiv:2405.00903.
+
+Otal, H. T., & Canbaz, M. A. (2024). *AI-Powered Crisis Response: Streamlining Emergency Management with LLMs.* IEEE World Forum on Public Safety Technology.
+
+Sun, W., Bocchini, P., & Davison, B. D. (2020). *Applications of Artificial Intelligence for Disaster Management.* Natural Hazards, 103, 2631–2689.
 
 Wald, D. J., Quitoriano, V., Heaton, T. H., & Kanamori, H. (1999). *“Did You Feel It?” Intensity Data: A Surprisingly Good Measure of Earthquake Ground Motion.* Seismological Research Letters, 70(6), 680–697.
 
@@ -30,3 +44,4 @@ Xia, Y., Huang, Y., Qiu, Q., Zhang, X., Miao, L., & Chen, Y. (2024). *A Question
 
 Zhang, M., Huang, Q., & Liu, H. (2022). *A Multimodal Data Analysis Approach to Social Media during Natural Disasters.* Sustainability, 14(9), 5536.
 
+Zhang, X., & Ma, Y. (2023). *An ALBERT-Based TextCNN-Hatt Hybrid Model Enhanced with Topic Knowledge for Sentiment Analysis of Sudden-Onset Disasters.* Engineering Applications of Artificial Intelligence, 123, 106136.
